@@ -10,3 +10,15 @@
 *.lai
 *.la
 *.a
+
+# Vim tmp files
+.*.swp
+
+# CMake stuff
+CMakeCache.txt
+CMakeFiles/*
+Makefile
+cmake_install.cmake
+
+# Binary
+symRay
